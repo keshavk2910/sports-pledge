@@ -28,12 +28,12 @@ export default function Navigation() {
             >
               Find your Team
             </Link>
-            <Link
+            {/* <Link
               className='text-gray-700 hover:text-blue-400 transition-colors'
               href='#'
             >
               Success Stories
-            </Link>
+            </Link> */}
             <Link
               className='text-gray-700 hover:text-blue-400 transition-colors'
               href='/how-it-works'

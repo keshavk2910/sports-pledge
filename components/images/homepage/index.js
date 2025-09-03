@@ -1,0 +1,12 @@
+export { default as heroImage } from './hero-section-image.png';
+export { default as starIcon } from './Star.svg';
+export { default as fundraisingImage1 } from './fundraising-image-1.png';
+export { default as fundraisingImage2 } from './fundraising-image-2.png';
+export { default as fundraisingImage3 } from './fundraising-image-3.png';
+export { default as teamImage1 } from './Team-image-1.jpg';
+export { default as teamImage2 } from './Team-image-2.jpg';
+export { default as teamImage3 } from './Team-image-3.jpg';
+export { default as teamImage4 } from './Team-image-4.jpg';
+export { default as teamImage5 } from './Team-image-5.jpg';
+export { default as vectorRope } from './vector-rope-1.svg';
+export { default as authorImage } from './author-image.png';

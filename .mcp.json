@@ -1,0 +1,26 @@
+{
+  "mcpServers": {
+    "Figma": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote",
+        "https://mcp.composio.dev/composio/server/57e6d808-c5aa-4617-9298-968b0d59b3c6/mcp?include_composio_helper_actions=true"
+      ],
+      "env": {
+        "npm_config_yes": "true"
+      }
+    },
+    "supabase": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@supabase/mcp-server-supabase@latest",
+        "--project-ref=yspfeiqpzoruvycotthz"
+      ],
+      "env": {
+        "SUPABASE_ACCESS_TOKEN": "sbp_0e9f756e29ab0ff03bc82c9409c662be69f0dc3e"
+      }
+    }
+  }
+}

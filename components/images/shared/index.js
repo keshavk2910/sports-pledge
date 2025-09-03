@@ -1,0 +1,10 @@
+export { default as avatarImage } from './avatar.png';
+export { default as logo } from './sportspledge-logo.svg';
+export { default as iconInstagram } from './icon-instagram.svg';
+export { default as iconLinkedin } from './icon-linkedin.svg';
+export { default as iconSearch } from './icon-search.svg';
+export { default as iconShield } from './icon-shield.svg';
+export { default as iconTrello } from './icon-trello.svg';
+export { default as iconTwitter } from './icon-twitter.svg';
+export { default as iconVideo } from './icon-video.svg';
+export { default as iconYoutube } from './icon-youtube.svg';

@@ -1,0 +1,12 @@
+export { default as about1Image } from './about1.jpg';
+export { default as aboutPeople1 } from './about-people-1.jpg';
+export { default as aboutPeople2 } from './about-people-2.jpg';
+export { default as aboutPeople3 } from './about-people-3.jpg';
+export { default as locationIcon } from './location.svg';
+export { default as emailIcon } from './email-icon.svg';
+export { default as callIcon } from './call-icon.svg';
+export { default as facebookIcon } from './facebook-icon.svg';
+export { default as twitterIcon } from './twitter-icon.svg';
+export { default as instagramIcon } from './instagram-icon.svg';
+export { default as linkedinIcon } from './linkedin-icon.svg';
+export { default as youtubeIcon } from './youtube-icon.svg';

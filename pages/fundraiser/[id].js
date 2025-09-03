@@ -3,8 +3,9 @@ import Layout from '../../components/Layout';
 import FundraiserHero from '../../components/FundraiserHero';
 import CallToAction from '../../components/CallToAction';
 import TeamMemberCard from '../../components/TeamMemberCard';
-import { iconAbout, teamRoster, iconUpdate, donorIcon, basketballIcon, locationIcon, clipPathGroupIcon, cyclesImage } from '../../components/images/fundraiser';
+import { iconAbout, teamRoster, iconUpdate, donorIcon, basketballIcon, clipPathGroupIcon, cyclesImage } from '../../components/images/fundraiser';
 import { tagSeparator } from '../../components/images/donation';
+import { locationIcon } from '../../components/images/about';
 import { mockTeamMembers } from '../../data/mockTeamMembers';
 
 export default function CampaignDetails() {

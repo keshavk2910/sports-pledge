@@ -18,7 +18,7 @@ export default function Navigation() {
           <nav className='hidden md:flex space-x-3.5'>
             <Link
               className='text-gray-700 hover:text-blue-400 transition-colors'
-              href='/donate/1'
+              href='/signin'
             >
               Start a Campaign
             </Link>
